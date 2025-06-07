@@ -37,3 +37,9 @@ A Full-Stack E-Learning Website built using HTML, CSS, JavaScript, AJAX, jQuery,
 3. Configure the `config.php` file for your database credentials.
 4. Launch the project on your local server (e.g., XAMPP, WAMP, or similar).
 5. Access the app at `localhost` or `127.0.0.1` in your browser 🌍🔑
+![1](https://github.com/user-attachments/assets/25bfe050-9dff-48fc-bd89-d062b8c68a0d)
+![2](https://github.com/user-attachments/assets/6c243821-dfbf-4c15-8d5e-c38c7cb848dd)
+![3](https://github.com/user-attachments/assets/adb35f92-3910-4759-baa5-0265194ac18b)
+![6](https://github.com/user-attachments/assets/b5fce85c-f17c-49d8-8e80-30c6ad7da861)
+![7](https://github.com/user-attachments/assets/e9defd1d-57e1-4d87-b19b-2c471e1ebcc2)
+
